@@ -8,7 +8,7 @@
 
 ## Changes to GitHub API authentication
 
-Since the course was published, GitHub has [deprecated authentication via URL query parameters](https://developer.github.com/changes/2019-11-05-deprecated-passwords-and-authorizations-api/#authenticating-using-query-parameters)
+GitHub has [deprecated authentication via URL query parameters](https://developer.github.com/changes/2019-11-05-deprecated-passwords-and-authorizations-api/#authenticating-using-query-parameters)
 You can get an access token by following [these instructions](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)
 For this app we don't need to add any permissions so don't select any in the _scopes_.
 **DO NOT SHARE ANY TOKENS THAT HAVE PERMISSIONS**
